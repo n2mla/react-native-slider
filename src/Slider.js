@@ -11,6 +11,7 @@ import {
 } from 'react-native';
 
 import { ViewPropTypes, ImagePropTypes} from 'deprecated-react-native-prop-types';
+import PropTypes from 'prop-types';
 
 const TRACK_SIZE = 4;
 const THUMB_SIZE = 20;
